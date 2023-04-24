@@ -1,7 +1,0 @@
-{
-    "editor.fontSize": 28,
-    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
-    "editor.cursorStyle": "block",
-    "files.autoSave": "onFocusChange",
-    "javascript.suggest.autoImports": false,
-}
